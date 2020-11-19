@@ -3,7 +3,12 @@
 Ini Project Dari Bagus Yoga
 
 ## Install the dependencies (first is first)
-You must select one of nodejs or yarn to run this project
+1. You must select one of nodejs or yarn
+2. Install android studio
+3. Install cordova
+4. Install Quasar
+5. Install JDK
+
 ## for linux (debian,ubuntu,linux mint,zorin os) users:
 ```bash
 sudo apt install nodejs
@@ -42,6 +47,11 @@ quasar dev
 still in the directory toko-bagus
 ```bash
 quasar build -m cordova -T android
+```
+### Build the app for IOS application
+still in the directory toko-bagus
+```bash
+quasar build -m cordova -T ios
 ```
 ### Build the app for desktop application
 still in the directory toko-bagus
