@@ -4,12 +4,21 @@ Ini Project Dari Bagus Yoga
 
 ## Install the dependencies
 ```bash
-install yarn or nodejs for windows
+install nodejs
 ```
+## or
+```bash
+install yarn
+```
+## Clone the project
+```bash
+git clone https://github.com/ayubgilbert/toko-bagus.git
+cd toko-bagus
+```
+
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
-cd toko-bagus
 npm install
 quasar dev
 ```
