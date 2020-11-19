@@ -8,7 +8,7 @@ You must select one of nodejs or yarn to run this project
 ```bash
 sudo apt install nodejs
 ```
-or
+#### or
 ```bash
 sudo apt install yarn
 ```
@@ -17,9 +17,9 @@ sudo apt install yarn
 download and install nodejs from this link below
 ```
 download [nodejs](https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi)
-### or
+#### or
 ```bash
-if you are want to using yarn just download from this page
+just if you are want to using yarn you can download it from this link
 ```
 download [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
@@ -39,13 +39,13 @@ quasar dev
 
 
 ### Build the app for android application
+still in the directory toko-bagus
 ```bash
-cd toko-bagus
 quasar build -m cordova -T android
 ```
 ### Build the app for desktop application
+still in the directory toko-bagus
 ```bash
-cd toko-bagus
 quasar build -m electron
 ```
 
