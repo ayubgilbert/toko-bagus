@@ -122,5 +122,6 @@ export default {
 }
 .no-task{
   opacity: 0.7;
+  margin-top: 10px;
 }
 </style>
