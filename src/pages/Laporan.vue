@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <h2>Laporan</h2>
+    <h3>Laporan</h3>
   </q-page>
 </template>
 

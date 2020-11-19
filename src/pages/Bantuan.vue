@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <h2>Bantuan</h2>
+    <h3>Bantuan</h3>
   </q-page>
 </template>
 

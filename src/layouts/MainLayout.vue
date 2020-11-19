@@ -161,7 +161,7 @@ export default {
   computed: {
     hariSekarang() {
       let timeStamp = Date.now();
-      return date.formatDate(timeStamp, "dddd D MMMM");
+      return date.formatDate(timeStamp, "D MMMM YYYY");
     },
   },
 };
