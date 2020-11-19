@@ -16,12 +16,12 @@ sudo apt install yarn
 ```bash
 download and install nodejs from this link below
 ```
-[nodejs](https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi)
-# or
+download [nodejs](https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi)
+### or
 ```bash
 if you are want to using yarn just download from this page
 ```
-[yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+download [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
 ## Clone the project
 If you are already install nodejs or yarn just clone my repository
