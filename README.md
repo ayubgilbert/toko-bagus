@@ -9,23 +9,19 @@ Ini Project Dari Bagus Yoga
 4. Download & Install [Quasar](quasar.dev)
 5. Download & Install JDK 1.8.x
 #### or
-*you can see the tutorial of installation in each official website for your current operating system, for more tutorial installation just googling it or search for youtube tutorials of you are confuse. and don't forget to setting the path.*
+*you can see the tutorial of installation in each official website for your current operating system, for more tutorial installation just googling it or search for youtube tutorials if you are confuse. and don't forget to setting the path.*
 
 ## Clone the project
 If you are already install nodejs or yarn just clone my repository
 ```bash
 git clone https://github.com/ayubgilbert/toko-bagus.git
 ```
-
-
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 cd toko-bagus
 npm install
 quasar dev
 ```
-
-
 ### Build the app for android application
 still in the directory toko-bagus
 ```bash
@@ -41,7 +37,6 @@ still in the directory toko-bagus
 ```bash
 quasar build -m electron
 ```
-
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 # toko-bagus
