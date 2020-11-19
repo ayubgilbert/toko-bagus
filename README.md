@@ -8,7 +8,7 @@ Ini Project Dari Bagus Yoga
 3. Download & Install [cordova](https://cordova.apache.org/)
 4. Download & Install [Quasar](quasar.dev)
 5. Download & Install JDK 1.8.x
-*you can see the tutorial of installation in each official website, for more tutorial installation just googling it or search for youtube tutorials
+*you can see the tutorial of installation in each official website, for more tutorial installation just googling it or search for youtube tutorials*
 
 ## Clone the project
 If you are already install nodejs or yarn just clone my repository
