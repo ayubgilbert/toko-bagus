@@ -38,7 +38,7 @@
           
           <q-item to="/" exact clickable v-ripple>
             <q-item-section avatar>
-              <q-icon name="list" />
+              <q-icon name="fact_check" />
             </q-item-section>
 
             <q-item-section> Dashboard </q-item-section>
@@ -53,7 +53,7 @@
 
           <q-item to="/laporan" exact clickable v-ripple>
             <q-item-section avatar>
-              <q-icon name="send" />
+              <q-icon name="assignment" />
             </q-item-section>
 
             <q-item-section> Laporan </q-item-section>
@@ -61,7 +61,7 @@
 
           <q-item to="/inventory" exact clickable v-ripple>
             <q-item-section avatar>
-              <q-icon name="drafts" />
+              <q-icon name="list" />
             </q-item-section>
 
             <q-item-section> Inventori </q-item-section>
@@ -69,7 +69,7 @@
 
           <q-item to="/bantuan" exact clickable v-ripple>
             <q-item-section avatar>
-              <q-icon name="help" />
+              <q-icon name="help_center" />
             </q-item-section>
 
             <q-item-section> Bantuan </q-item-section>
