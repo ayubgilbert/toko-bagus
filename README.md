@@ -9,7 +9,7 @@ Ini Project Dari Bagus Yoga
 4. Download & Install [Quasar](quasar.dev)
 5. Download & Install JDK 1.8.x
 #### or
-*you can see the tutorial of installation in each official website, for more tutorial installation just googling it or search for youtube tutorials*
+*you can see the tutorial of installation in each official website for your current operating system, for more tutorial installation just googling it or search for youtube tutorials of you are confuse* and don't forget to setting the path.
 
 ## Clone the project
 If you are already install nodejs or yarn just clone my repository
