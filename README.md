@@ -4,10 +4,11 @@ Ini Project Dari Bagus Yoga
 
 ## Install the dependencies (first is first)
 1. You must select one of [nodejs](https://nodejs.org/en/download/) or [yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) to install
-2. Install android studio
-3. Install [cordova](https://cordova.apache.org/)
-4. Install [Quasar](quasar.dev)
-5. Install JDK 1.8.x
+2. Download & Install [android studio](https://developer.android.com/studio?hl=id)
+3. Download & Install [cordova](https://cordova.apache.org/)
+4. Download & Install [Quasar](quasar.dev)
+5. Download & Install JDK 1.8.x
+*you can see the tutorial of installation in each official website, for more tutorial installation just googling it or search for youtube tutorials
 
 ## Clone the project
 If you are already install nodejs or yarn just clone my repository
