@@ -15,12 +15,12 @@ Ini Project Dari Bagus Yoga
 If you are already install nodejs or yarn just clone my repository
 ```bash
 git clone https://github.com/ayubgilbert/toko-bagus.git
-cd toko-bagus
 ```
 
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
+cd toko-bagus
 npm install
 quasar dev
 ```
