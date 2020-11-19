@@ -4,7 +4,7 @@ Ini Project Dari Bagus Yoga
 
 ## Install the dependencies (first is first)
 You must select one of nodejs or yarn to run this project
-## for linux users:
+## for linux (debian,ubuntu,linux mint,zorin os) users:
 ```bash
 sudo apt install nodejs
 ```
@@ -14,12 +14,15 @@ sudo apt install yarn
 ```
 ## for windows
 ```bash
-download and install nodejs from https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi for download node js
+download and install nodejs from this link below
 ```
+https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi
 or
 ```bash
-if you are want to using yarn just download from this page https://classic.yarnpkg.com/en/docs/install/#windows-stable
+if you are want to using yarn just download from this page
 ```
+https://classic.yarnpkg.com/en/docs/install/#windows-stable
+
 ## Clone the project
 If you are already install nodejs or yarn just clone my repository
 ```bash
