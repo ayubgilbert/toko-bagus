@@ -79,7 +79,7 @@
 
       <q-img
         class="absolute-top"
-        src="../statics/mountains.jpg"
+        src="../statics/color1.jpg"
         style="height: 167px"
       >
         <div class="absolute-bottom bg-transparent">
