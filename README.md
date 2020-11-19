@@ -8,6 +8,7 @@ Ini Project Dari Bagus Yoga
 3. Download & Install [cordova](https://cordova.apache.org/)
 4. Download & Install [Quasar](quasar.dev)
 5. Download & Install JDK 1.8.x
+#### or
 *you can see the tutorial of installation in each official website, for more tutorial installation just googling it or search for youtube tutorials*
 
 ## Clone the project
