@@ -14,9 +14,8 @@ sudo apt install yarn
 ```
 ## for windows
 ```bash
-download and install nodejs from this link below
+download and install nodejs from this link [haha](https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi)
 ```
-https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi
 or
 ```bash
 if you are want to using yarn just download from this page
