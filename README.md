@@ -1,21 +1,29 @@
 # Toko Bagus (toko-bagus)
 
-Toko Bagus Com
+Ini Project Dari Bagus Yoga
 
 ## Install the dependencies
 ```bash
-yarn
+install yarn or nodejs for windows
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
+cd toko-bagus
+npm install
 quasar dev
 ```
 
 
-### Build the app for production
+### Build the app for android application
 ```bash
-quasar build
+cd toko-bagus
+quasar build -m cordova -T android
+```
+### Build the app for desktop application
+```bash
+cd toko-bagus
+quasar build -m electron
 ```
 
 ### Customize the configuration
