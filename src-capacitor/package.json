@@ -1,0 +1,12 @@
+{
+  "name": "toko-bagus",
+  "version": "0.0.1",
+  "description": "Toko Bagus Com",
+  "author": "Ayub dan Bagus",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "2.4.3",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
