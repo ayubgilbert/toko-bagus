@@ -19,7 +19,8 @@
     "electron": "^9.0.0",
     "electron-debug": "^3.0.1",
     "electron-devtools-installer": "^3.0.0",
-    "electron-packager": "^14.1.1"
+    "electron-packager": "^14.1.1",
+    "workbox-webpack-plugin": "^5.0.0"
   },
   "browserslist": [
     "last 10 Chrome versions",
